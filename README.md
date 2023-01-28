@@ -7,7 +7,6 @@
   <li>An API is fetched to make the jokes</li>
   <li>This was made to get a basic overview of how extensions are made</li>
 </ul>
-<br>
 
 <h3>Made using</h3>
 
