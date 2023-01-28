@@ -16,4 +16,14 @@
   <li>JavaScript</li>
 </ul>
 
+<h3>How to use</h3>
+
+<ul>
+  <li>Get the code and save it in a folder</li>
+  <li>Open your Browser and go to extensions</li>
+  <li>Enable the developer mode and select 'Load unpacked'</li>
+  <li>Select the folder were you saved the code </li>
+  <li>Ready To Go !</li>
+</ul>
+
 
