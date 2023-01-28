@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    justify-content:space-between;
+}
+
+body{
+    width: 300px;
+    min-height: 200px;
+    background-color: #272727;
+    color: #fff;
+    border-radius: 20px;
+}
+
+#jokeElement{
+    font-size: 15px;
+    margin-top: 40px;
+    padding: 15px;
+}
+
+#smile{
+    padding-top:30px;
+    font-size: 20px;
+}
